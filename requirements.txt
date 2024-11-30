@@ -1,0 +1,10 @@
+torch~=2.5.1
+matplotlib~=3.9.2
+evaluate~=0.4.3
+dataset
+scikit-learn~=1.5.2
+transformers~=4.46.3
+
+pandas~=2.2.3
+numpy~=2.1.3
+datasets~=3.1.0
